@@ -127,15 +127,24 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Car.cpp" />
+    <ClCompile Include="Chicken.cpp" />
+    <ClCompile Include="Class1.cpp" />
+    <ClCompile Include="Class2.cpp" />
+    <ClCompile Include="Dog.cpp" />
     <ClCompile Include="Dz_32.cpp" />
-    <ClCompile Include="Garage.cpp" />
-    <ClCompile Include="Vehicle.cpp" />
+    <ClCompile Include="NamespaceAB.cpp" />
+    <ClCompile Include="Parrot.cpp" />
+    <ClCompile Include="Wolf.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Car.h" />
-    <ClInclude Include="Garage.h" />
-    <ClInclude Include="Vehicle.h" />
+    <ClInclude Include="Animal.h" />
+    <ClInclude Include="Chicken.h" />
+    <ClInclude Include="Class1.h" />
+    <ClInclude Include="Class2.h" />
+    <ClInclude Include="Dog.h" />
+    <ClInclude Include="NamespaceAB.h" />
+    <ClInclude Include="Parrot.h" />
+    <ClInclude Include="Wolf.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

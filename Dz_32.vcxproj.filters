@@ -18,24 +18,51 @@
     <ClCompile Include="Dz_32.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Vehicle.cpp">
+    <ClCompile Include="NamespaceAB.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Car.cpp">
+    <ClCompile Include="Class1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Garage.cpp">
+    <ClCompile Include="Class2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Wolf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Parrot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Chicken.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Vehicle.h">
+    <ClInclude Include="NamespaceAB.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Car.h">
+    <ClInclude Include="Class1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Garage.h">
+    <ClInclude Include="Class2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Animal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Dog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Wolf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Parrot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Chicken.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
